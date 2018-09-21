@@ -1,0 +1,1 @@
+python train.py --dataroot ./datasets/speech-img --name speech_cyclegan --model cycle_gan --display_id 0 --no_flip --resize_or_crop none
